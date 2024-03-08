@@ -1,0 +1,88 @@
+
+
+
+
+    JAVA TUTORIAL ...
+
+- java home
+- java intro
+- java get syntax
+- java output
+- java comment
+- java variable
+- java data types
+- java type casting
+- java operator
+- java strings
+- java Math
+- java booleans
+- java if else
+- java switch
+- java while loop
+- java for loop
+- java break / continue
+- java arrays
+
+
+    JAVA METHOD
+
+- java method 
+- java method parameters
+- java method overloading
+- java scope
+- java recursion
+
+
+    JAVA CLASSES
+- java operator
+- java classes / objects
+- java class attributes
+- java constructor
+- java modifiers
+- java encapsulation
+- java packages /API 
+- java inheritence
+- java polymorfism
+- java inner classes 
+- java abstraction
+- java interface
+- java enum
+- java user input
+- java Date
+- java ArrayList
+- java LinkedList
+- java HashMap
+- JAVA hashset
+- java iterator
+- java wrapper classes 
+- java exception
+- java Regex
+- java Threads
+- java Lambda
+
+    JAVA FILE HANDLING
+
+- java files
+- java create / write files
+- java read files 
+- java delete file 
+
+
+    JAVA HOW TO 
+
+- add to number
+- count words
+- reverse a strings
+- sum of array element
+- area of rectangle
+- even or odd number 
+
+    JAVA REFERENCE 
+
+- java keyword
+- java string method 
+- java math mmethod 
+
+
+
+
