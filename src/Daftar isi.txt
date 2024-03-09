@@ -6,21 +6,82 @@
 
 - java home
 - java intro
-- java get syntax
+- java get Started
+    - cek java version
+        # java -version
+    - langkah langkah install java 
+        # https://www.w3schools.com/java/java_getstarted.asp
+
+    - running java via terminal / cmd
+        # java Main.java 
+        # java Main
+
+- java  syntax
+        # public class Main {
+            public static void main(String[] args) {
+                System.out.println("Hello World");
+            }
+          }
+
+          
 - java output
 - java comment
 - java variable
+
+
+
 - java data types
+    => data types 
+    => numbers
+    => booleans
+    => character 
+    => non primitif
+  
 - java type casting
-- java operator
+    => otomatis 
+    => manual
+
+
+- java operator    
+    => operator aritmatika
+    => operator penugasan
+    => operator perbandingan
+    => operator logika
+    => operator bitwise
+
 - java strings
+    => string
+        => referensi fungsi fungsi string : https://www.w3schools.com/java/java_ref_string.asp
+
+    => rangkaian
+    => angka dan string 
+    => karakter spesial
+
 - java Math
+    => referensi math java => https://www.w3schools.com/java/java_ref_math.asp
+
+
+
 - java booleans
+        => ini gitu gitu aja gausah di bahas lah 
+
+
+
 - java if else
+    => 
+
 - java switch
+    =>
+
 - java while loop
+    => 
+
 - java for loop
+    => 
+
 - java break / continue
+    => 
+    
 - java arrays
 
 
