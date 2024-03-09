@@ -3,12 +3,14 @@ package basic;
 public class If_else {
 
 
+
     public static void if_else(){
 
 
         int time = 22;
 
 
+        //  if else normal
         if(time < 10) {
             System.out.println("salah");
         } else {
@@ -16,7 +18,11 @@ public class If_else {
         }
 
 
+        //  if ternary
         
+        //  deklarasi 
+
+
     }
     
 }
