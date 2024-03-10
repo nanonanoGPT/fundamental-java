@@ -1,4 +1,6 @@
 import basic.Casting;
+import basic.If_else;
+import basic.Looping_java;
 import basic.Math_java;
 import basic.Output;
 import basic.String_java;
@@ -32,6 +34,11 @@ public class Main {
 
         // String_java.string_java();
 
-        Math_java.math_java();
+        // Math_java.math_java();
+
+        // If_else.if_else();
+
+        Looping_java.looping_java();
+
     }
 }

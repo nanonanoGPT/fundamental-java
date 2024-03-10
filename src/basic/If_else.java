@@ -21,7 +21,10 @@ public class If_else {
         //  if ternary
         
         //  deklarasi 
+        // variable = (condition) ? true : false;
 
+
+        String result = (time < 18) ? "Good day" : "Good evening";
 
     }
     
