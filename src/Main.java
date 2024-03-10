@@ -1,3 +1,5 @@
+import basic.Array_java;
+import basic.Break__continue;
 import basic.Casting;
 import basic.If_else;
 import basic.Looping_java;
@@ -38,7 +40,16 @@ public class Main {
 
         // If_else.if_else();
 
-        Looping_java.looping_java();
+        // Looping_java.looping_java();
+
+        // Break__continue.break_continue();
+
+        // Array_java.array_java();
+        // Array_java.array_loop();
+        // Array_java.array_multi_dimensi();
+        Array_java.looping_array_multidimensi();
+
+
 
     }
 }
