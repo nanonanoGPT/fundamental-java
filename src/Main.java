@@ -100,20 +100,5 @@ public class Main {
             // enc.setName("nanonano");
             // System.out.println(enc.getName());
 
-
-            Car myCar = new Car();
-            // memanggil honk dari kelas vehicle
-            myCar.honk();
-
-            System.out.println(myCar.brand + " " + myCar.modelName);
-
-
-
-
-
-
-
-
-
     }
 }
